@@ -1,6 +1,6 @@
 const http_security: string = 'http'
 const domain: string = 'localhost'
-const port: number = 8080
+const port: number = 9090
 
 export const environment = {
     production: false,
